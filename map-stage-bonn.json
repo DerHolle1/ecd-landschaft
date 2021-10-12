@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#start-stage-bonn"
                 }],
          "type":"tilelayer",
          "visible":true,
