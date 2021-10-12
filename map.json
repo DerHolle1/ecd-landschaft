@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map-stage-bonn.json"
                 }],
          "type":"tilelayer",
          "visible":true,
